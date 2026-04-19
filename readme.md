@@ -76,8 +76,7 @@ C:\Users\Documents\Arduino\libraries\
 
 3.Open the code configuration environment and burn it
 
-![arduino2](https://github.com/user-attachments/assets/e478382b-985e-492d-ab27-11ebc96a9724)
-
+<img width="504" height="905" alt="image" src="https://github.com/user-attachments/assets/738ccd21-b4c9-4030-90a1-48d781050156" />
 
 
 ##### ESP-IDF starts
