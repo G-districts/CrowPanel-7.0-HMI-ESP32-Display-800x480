@@ -44,9 +44,9 @@
 - Screen: TFT-LCD Screen
 - Display driver: EK9716BD3 & EK73002ACGB
 - External power supply: DC5V-2A
-- Interface: 2*UART0,2*GPIO,2*I2C,1*Battery
+- Interface: 2\*UART0,2\*GPIO,2\*I2C,1\*Battery
 - Button: BOOT Button and Reset Button
-- Active Area: 153.84*85.63mm(W*H)
+- Active Area: 153.84\*85.63mm(W*H)
 - Working Temperature: -20℃～70℃
 - Storage Temperature: -30℃～80℃
 
